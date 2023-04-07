@@ -1,4 +1,4 @@
-# Rocketseat ESLint config
+# Volphax ESLint config
 
 ## Whats included?
 
